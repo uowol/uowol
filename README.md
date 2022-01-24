@@ -1,7 +1,7 @@
 ### Welcome to Chanwoo's Github Profile 👋
 
 #### 🌱 I’m currently learning
-- 👾 C++
+- 👾 C++ / Python / Vanilla JS
 - ⚖️ SAS / R
 - 📖 Pattern Recognition and Machine Learning
 - 📖 Statistics
