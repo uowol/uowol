@@ -2,9 +2,10 @@
 
 #### 🌱 I’m currently learning
 - 👾 C++ / Python / Vanilla JS
-- ⚖️ SAS / R
-- 📖 Pattern Recognition and Machine Learning
-- 📖 Statistics
+- 🕹️ Unity / C#
+- 🎨 C4D / Redshift-rendering
+- 🧬 NLP / Multi-modal / Pytorch
+- 🎲 Statistics / SAS / R
 
 ### Github
 ![Chanwoo's github stats](https://github-readme-stats.vercel.app/api?username=uowol&show_icons=true&hide_border=true) 
