@@ -8,7 +8,7 @@
 - 🎲 Statistics / SAS / R
 
 #### 🪴 History
-- Program-language / C / java / vanilla-JS / node.js
+- Program-language / Python / C / Java / vanilla-JS
 - Language / KR / EN / ES
 - Android(w.Java, 2016-2017)
 - A lot of toy projects / data-analysis / chatbot / discord-bot / intellij-plugin / window-apps / android-apps / ...
