@@ -1,17 +1,15 @@
 ### Welcome to Chanwoo's Github Profile 👋
 
 #### 🌱 I’m currently learning
-- 👾 Python / C++
-- 🕹️ Unity / C#
-- 🎨 C4D / redshift-rendering
-- 🧬 NLP / multi-modal / pytorch
-- 🎲 Statistics / SAS / R
+- 🧬 Computer Vision / Multi-modal
 
-#### 🪴 History
-- Program-language / Python / C / Java / vanilla-JS
-- Language / KR / EN / ES
-- Android(w.Java, 2016-2017)
-- A lot of toy projects / data-analysis / chatbot / discord-bot / intellij-plugin / window-apps / android-apps / ...
+#### 🪴 Skills
+- 🐍 Python / Pytorch / Flask / FastAPI / Streamlit / Airflow
+- 🎲 Statistics / SAS / R
+- 📚 Language / KR / EN / ES
+- 🤖 Android(w.Java)
+- 🎨 C4D / redshift-rendering
+- 👾 A lot of toy projects / Data-analysis / Chatbot / Discord-bot / Intellij-plugin / Window-apps / Android-apps / ...
 
 ### Github
 ![Chanwoo's github stats](https://github-readme-stats.vercel.app/api?username=uowol&show_icons=true&hide_border=true) 
