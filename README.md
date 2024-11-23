@@ -1,15 +1,24 @@
 ### Welcome to Chanwoo's Github Profile 👋
 
-#### 🌱 I’m currently learning
-- 🧬 Computer Vision / Multi-modal
+#### 🔭 I’m currently working on ...
+- 🧑‍💼 (2024.07-2025.01) NAVER CLOUD, Vision Understanding Inter (Vision LLM)
+
+#### 🌱 I’m currently learning ...
+- 📚 Data Engineering (DataOps, Data-anlysis)
+- 🤖 ML Engineering (MLOps, Modeling)
+
+#### 🏫 Education 
+- 🧑‍💻 (2023.11-2024.06) NAVER Connect Foundation, AI Tech CV Track 6th (Image Classification, Object Detection, Data-Centric)
+- 👨‍🔬 (2022.03-2023.02) MLAI@UOS, Undergraduate Researcher (Multimodal, Modeling)
+- 🧑‍🎓 (2018.03-2024.08) University of Seoul, Statistics
 
 #### 🪴 Skills
-- 🐍 Python / Pytorch / Flask / FastAPI / Streamlit / Airflow
-- 🎲 Statistics / SAS / R
-- 📚 Language / KR / EN / ES
-- 🤖 Android(w.Java)
-- 🎨 C4D / redshift-rendering
-- 👾 A lot of toy projects / Data-analysis / Chatbot / Discord-bot / Intellij-plugin / Window-apps / Android-apps / ...
+- 🐍 Python - Pytorch / Flask / FastAPI / Streamlit
+- 🎲 Statistics - DataAnalysis / Regression / Visualization / SAS / R
+- 📚 Language - KR🥇 / EN🥈 / ES🥉 JP🥉 (Studing...)
+- 🤖 Development - Python <--now using-- / --need to remind--> C++ / C# / Java / JS / Android(w.Java)
+- 🎨 3d Modeling - C4D / redshift-rendering
+- 👾 A lot of toy projects - Data-analysis / Chatbot / Discord-bot / Intellij-plugin / Window-apps / Android-apps / ...
 
 ### Github
 ![Chanwoo's github stats](https://github-readme-stats.vercel.app/api?username=uowol&show_icons=true&hide_border=true) 
