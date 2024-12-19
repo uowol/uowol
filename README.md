@@ -1,7 +1,7 @@
 ### Welcome to Chanwoo's Github Profile 👋
 
 #### 🔭 I’m currently working on ...
-- 🧑‍💼 (2024.07-2025.01) NAVER CLOUD, Vision Understanding Inter (Vision LLM)
+- 🧑‍💼 (2024.07-2025.01) NAVER CLOUD, Vision Understanding Experiential Internship (Vision LLM)
 
 #### 🌱 I’m currently learning ...
 - 📚 Data Engineering (DataOps, Data-anlysis)
