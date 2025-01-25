@@ -1,6 +1,6 @@
 ### Welcome to Chanwoo's Github Profile 👋
 
-#### 🔭 I’m currently working on ...
+#### 🔭 I’m recently worked on ...
 - 🧑‍💼 (2024.07-2025.01) NAVER CLOUD, Vision Understanding Experiential Internship (Vision LLM)
 
 #### 🌱 I’m currently learning ...
@@ -19,6 +19,9 @@
 - 🤖 Development - Python <--now using-- / --need to remind--> C++ / C# / Java / JS / Android(w.Java)
 - 🎨 3d Modeling - C4D / redshift-rendering
 - 👾 A lot of toy projects - Data-analysis / Chatbot / Discord-bot / Intellij-plugin / Window-apps / Android-apps / ...
+
+### 🔖 Data-analysis Wiki
+- https://github.com/uowol/Kaggle-Data-Analysis/wiki
 
 ### Github
 ![Chanwoo's github stats](https://github-readme-stats.vercel.app/api?username=uowol&show_icons=true&hide_border=true) 
